@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/mapday.jpg</file>
+        <file>res/ye.png</file>
+    </qresource>
+</RCC>
